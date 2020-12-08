@@ -18,10 +18,11 @@ namespace beadandó
         public Form1()
         {
             getcustumers();
+            dataGridView1.DataSource = custumers;
         }
         XDocument xdok = XDocument.Load("custumers.xml");
         BindingList<Custumer> custumers = new BindingList<Custumer>();
-
+        
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
             IEnumerable<Custumer> keres =
@@ -35,11 +36,16 @@ namespace beadandó
             xml.Load("custumers.xml");
             foreach (XmlElement xmlElement in xml.DocumentElement)
             {
-                var custumer = new Custumer();
-                custumers.Add(custumer);
-                custumer.cName = xmlElement.GetAttribute("Names");
-                custumer.cTel = xmlElement.GetAttribute("Tel");
-                custumer.cCity = xmlElement.GetAttribute("City");
+                for (int i = 1; i < 101; i++)
+                {
+                    var custumer = new Custumer();
+                    custumers.Add(custumer);
+                    custumer.cName = xmlElement.GetAttribute("Names");
+                    custumer.cTel = xmlElement.GetAttribute("Tel");
+                    custumer.cCity = xmlElement.GetAttribute("City");
+                    custumer.cID = i;
+                }
+                
             }
         }
     }

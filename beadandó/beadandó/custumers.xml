@@ -1,1205 +1,503 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
-<customers>
-  <custumer>
-    <Names>Renee T. Velasquez</Names>
-    <Tel>0020-744-4710</Tel>
-    <City>Penna in Teverina</City>
-    <ID>1</ID>
-  </custumer>
-  <custumer>
-    <Names>Lucas S. Wiggins</Names>
-    <Tel>0020-517-3858</Tel>
-    <City>Nerem</City>
-    <ID>2</ID>
-  </custumer>
-  <custumer>
-    <Names>Zelda S. Carney</Names>
-    <Tel>0070-225-8726</Tel>
-    <City>Gols</City>
-    <ID>3</ID>
-  </custumer>
-  <custumer>
-    <Names>Hedley Q. Haynes</Names>
-    <Tel>0070-635-8229</Tel>
-    <City>Dornbirn</City>
-    <ID>4</ID>
-  </custumer>
-  <custumer>
-    <Names>Dale L. Hester</Names>
-    <Tel>0030-497-7443</Tel>
-    <City>Wieze</City>
-    <ID>5</ID>
-  </custumer>
-  <custumer>
-    <Names>Rina N. Mann</Names>
-    <Tel>0020-992-7257</Tel>
-    <City>Northampton</City>
-    <ID>6</ID>
-  </custumer>
-  <custumer>
-    <Names>Christopher N. Melton</Names>
-    <Tel>0030-628-6426</Tel>
-    <City>Wolfville</City>
-    <ID>7</ID>
-  </custumer>
-  <custumer>
-    <Names>Talon B. Carver</Names>
-    <Tel>0020-603-9042</Tel>
-    <City>Zellik</City>
-    <ID>8</ID>
-  </custumer>
-  <custumer>
-    <Names>Barry G. Farley</Names>
-    <Tel>0030-656-7311</Tel>
-    <City>Yurimaguas</City>
-    <ID>9</ID>
-  </custumer>
-  <custumer>
-    <Names>Danielle B. Summers</Names>
-    <Tel>0070-064-6223</Tel>
-    <City>Moorsel</City>
-    <ID>10</ID>
-  </custumer>
-  <custumer>
-    <Names>Emi V. Romero</Names>
-    <Tel>0070-960-1280</Tel>
-    <City>Centa San Nicolò</City>
-    <ID>11</ID>
-  </custumer>
-  <custumer>
-    <Names>Pandora E. Martin</Names>
-    <Tel>0020-462-7524</Tel>
-    <City>Haldia</City>
-    <ID>12</ID>
-  </custumer>
-  <custumer>
-    <Names>Len T. Chang</Names>
-    <Tel>0030-537-9776</Tel>
-    <City>Scorrano</City>
-    <ID>13</ID>
-  </custumer>
-  <custumer>
-    <Names>Kenneth Q. Ortega</Names>
-    <Tel>0030-858-3741</Tel>
-    <City>Basingstoke</City>
-    <ID>14</ID>
-  </custumer>
-  <custumer>
-    <Names>Colleen T. Payne</Names>
-    <Tel>0070-069-9123</Tel>
-    <City>Town of Yarmouth</City>
-    <ID>15</ID>
-  </custumer>
-  <custumer>
-    <Names>Yvette J. Delacruz</Names>
-    <Tel>0070-129-2316</Tel>
-    <City>Arnesano</City>
-    <ID>16</ID>
-  </custumer>
-  <custumer>
-    <Names>Leandra Z. Phillips</Names>
-    <Tel>0020-869-8313</Tel>
-    <City>Mülheim</City>
-    <ID>17</ID>
-  </custumer>
-  <custumer>
-    <Names>Aphrodite I. Griffin</Names>
-    <Tel>0070-198-3482</Tel>
-    <City>San Juan del Cesar</City>
-    <ID>18</ID>
-  </custumer>
-  <custumer>
-    <Names>Oleg O. Perez</Names>
-    <Tel>0020-508-9272</Tel>
-    <City>Salamanca</City>
-    <ID>19</ID>
-  </custumer>
-  <custumer>
-    <Names>Sarah U. Murray</Names>
-    <Tel>0070-167-6885</Tel>
-    <City>Isla de Maipo</City>
-    <ID>20</ID>
-  </custumer>
-  <custumer>
-    <Names>Giacomo Q. Oneal</Names>
-    <Tel>0030-846-6710</Tel>
-    <City>Grand-Leez</City>
-    <ID>21</ID>
-  </custumer>
-  <custumer>
-    <Names>Jarrod S. Case</Names>
-    <Tel>0070-027-1394</Tel>
-    <City>College</City>
-    <ID>22</ID>
-  </custumer>
-  <custumer>
-    <Names>Buckminster I. Vance</Names>
-    <Tel>0020-320-2953</Tel>
-    <City>Bedollo</City>
-    <ID>23</ID>
-  </custumer>
-  <custumer>
-    <Names>Kibo Y. Castro</Names>
-    <Tel>0070-598-8522</Tel>
-    <City>Sint-Pieters-Woluwe</City>
-    <ID>24</ID>
-  </custumer>
-  <custumer>
-    <Names>Brent Q. Lewis</Names>
-    <Tel>0030-870-3003</Tel>
-    <City>Kurram Agency</City>
-    <ID>25</ID>
-  </custumer>
-  <custumer>
-    <Names>Abbot P. Holloway</Names>
-    <Tel>0020-755-3836</Tel>
-    <City>Biarritz</City>
-    <ID>26</ID>
-  </custumer>
-  <custumer>
-    <Names>Slade R. Alston</Names>
-    <Tel>0020-799-0157</Tel>
-    <City>Rekem</City>
-    <ID>27</ID>
-  </custumer>
-  <custumer>
-    <Names>Kimberly D. Avery</Names>
-    <Tel>0030-153-4663</Tel>
-    <City>Retford</City>
-    <ID>28</ID>
-  </custumer>
-  <custumer>
-    <Names>Zoe W. Ford</Names>
-    <Tel>0070-793-3447</Tel>
-    <City>Rio nell'Elba</City>
-    <ID>29</ID>
-  </custumer>
-  <custumer>
-    <Names>Chantale V. Watts</Names>
-    <Tel>0070-622-5482</Tel>
-    <City>Kooigem</City>
-    <ID>30</ID>
-  </custumer>
-  <custumer>
-    <Names>Nayda P. Ingram</Names>
-    <Tel>0070-715-3034</Tel>
-    <City>Nobressart</City>
-    <ID>31</ID>
-  </custumer>
-  <custumer>
-    <Names>Venus W. Osborn</Names>
-    <Tel>0030-007-4978</Tel>
-    <City>Sotteville-lès-Rouen</City>
-    <ID>32</ID>
-  </custumer>
-  <custumer>
-    <Names>Davis O. Mack</Names>
-    <Tel>0070-040-5567</Tel>
-    <City>Nemoli</City>
-    <ID>33</ID>
-  </custumer>
-  <custumer>
-    <Names>Rooney L. Burnett</Names>
-    <Tel>0020-269-9517</Tel>
-    <City>Oelegem</City>
-    <ID>34</ID>
-  </custumer>
-  <custumer>
-    <Names>Germane U. Dominguez</Names>
-    <Tel>0070-425-7872</Tel>
-    <City>Stamford</City>
-    <ID>35</ID>
-  </custumer>
-  <custumer>
-    <Names>Orlando I. Nguyen</Names>
-    <Tel>0030-493-2781</Tel>
-    <City>Ciénaga</City>
-    <ID>36</ID>
-  </custumer>
-  <custumer>
-    <Names>Nerea C. Decker</Names>
-    <Tel>0030-686-5412</Tel>
-    <City>Ceyhan</City>
-    <ID>37</ID>
-  </custumer>
-  <custumer>
-    <Names>Britanney W. Sweeney</Names>
-    <Tel>0020-967-8708</Tel>
-    <City>Mantova</City>
-    <ID>38</ID>
-  </custumer>
-  <custumer>
-    <Names>Yen G. Pace</Names>
-    <Tel>0020-615-3797</Tel>
-    <City>Palmiano</City>
-    <ID>39</ID>
-  </custumer>
-  <custumer>
-    <Names>Omar P. Bernard</Names>
-    <Tel>0070-217-9588</Tel>
-    <City>Algeciras</City>
-    <ID>40</ID>
-  </custumer>
-  <custumer>
-    <Names>Aretha I. Stafford</Names>
-    <Tel>0070-992-4874</Tel>
-    <City>Catemu</City>
-    <ID>41</ID>
-  </custumer>
-  <custumer>
-    <Names>Jacob C. Strickland</Names>
-    <Tel>0070-695-9305</Tel>
-    <City>Roxboro</City>
-    <ID>42</ID>
-  </custumer>
-  <custumer>
-    <Names>Chandler M. Carlson</Names>
-    <Tel>0070-725-1342</Tel>
-    <City>Izmir</City>
-    <ID>43</ID>
-  </custumer>
-  <custumer>
-    <Names>Quin I. Edwards</Names>
-    <Tel>0020-620-2626</Tel>
-    <City>Koolkerke</City>
-    <ID>44</ID>
-  </custumer>
-  <custumer>
-    <Names>Harlan B. Parks</Names>
-    <Tel>0020-748-1174</Tel>
-    <City>Conca Casale</City>
-    <ID>45</ID>
-  </custumer>
-  <custumer>
-    <Names>Irma Y. Hayes</Names>
-    <Tel>0020-742-0398</Tel>
-    <City>Monte Giberto</City>
-    <ID>46</ID>
-  </custumer>
-  <custumer>
-    <Names>Phyllis D. Glass</Names>
-    <Tel>0020-186-2317</Tel>
-    <City>Sarre</City>
-    <ID>47</ID>
-  </custumer>
-  <custumer>
-    <Names>Katell I. Vega</Names>
-    <Tel>0030-829-2329</Tel>
-    <City>Nacimiento</City>
-    <ID>48</ID>
-  </custumer>
-  <custumer>
-    <Names>Rebekah L. Cobb</Names>
-    <Tel>0030-851-3699</Tel>
-    <City>Jauche</City>
-    <ID>49</ID>
-  </custumer>
-  <custumer>
-    <Names>Erasmus V. Sears</Names>
-    <Tel>0020-271-4877</Tel>
-    <City>Klin</City>
-    <ID>50</ID>
-  </custumer>
-  <custumer>
-    <Names>Scarlet C. Crane</Names>
-    <Tel>0020-005-2644</Tel>
-    <City>Lavacherie</City>
-    <ID>51</ID>
-  </custumer>
-  <custumer>
-    <Names>Gareth I. Grant</Names>
-    <Tel>0070-964-7143</Tel>
-    <City>Cincinnati</City>
-    <ID>52</ID>
-  </custumer>
-  <custumer>
-    <Names>Castor B. Daugherty</Names>
-    <Tel>0020-109-8847</Tel>
-    <City>Albury</City>
-    <ID>53</ID>
-  </custumer>
-  <custumer>
-    <Names>Kasper W. Curtis</Names>
-    <Tel>0070-322-8733</Tel>
-    <City>Cawdor</City>
-    <ID>54</ID>
-  </custumer>
-  <custumer>
-    <Names>Neil E. Howe</Names>
-    <Tel>0020-452-9587</Tel>
-    <City>Courcelles</City>
-    <ID>55</ID>
-  </custumer>
-  <custumer>
-    <Names>Ivory Y. Cruz</Names>
-    <Tel>0030-123-5882</Tel>
-    <City>Fumal</City>
-    <ID>56</ID>
-  </custumer>
-  <custumer>
-    <Names>Adam O. Sanford</Names>
-    <Tel>0030-092-8356</Tel>
-    <City>Middelkerke</City>
-    <ID>57</ID>
-  </custumer>
-  <custumer>
-    <Names>Wendy H. Sheppard</Names>
-    <Tel>0070-994-9244</Tel>
-    <City>Coldstream</City>
-    <ID>58</ID>
-  </custumer>
-  <custumer>
-    <Names>Herman C. Sanders</Names>
-    <Tel>0070-812-9936</Tel>
-    <City>Cincinnati</City>
-    <ID>59</ID>
-  </custumer>
-  <custumer>
-    <Names>Melodie S. Trujillo</Names>
-    <Tel>0030-122-9315</Tel>
-    <City>San Fabián</City>
-    <ID>60</ID>
-  </custumer>
-  <custumer>
-    <Names>Ria C. Morales</Names>
-    <Tel>0020-904-4199</Tel>
-    <City>Delta</City>
-    <ID>61</ID>
-  </custumer>
-  <custumer>
-    <Names>Genevieve K. Barry</Names>
-    <Tel>0020-706-6069</Tel>
-    <City>Pirque</City>
-    <ID>62</ID>
-  </custumer>
-  <custumer>
-    <Names>Seth O. Jordan</Names>
-    <Tel>0070-450-6417</Tel>
+<records>
+  <record>
+    <Names>Hu</Names>
+    <Tel>003620/6086393</Tel>
+    <City>San Joaquín</City>
+  </record>
+  <record>
+    <Names>Scott</Names>
+    <Tel>003630/6402613</Tel>
+    <City>Puchuncaví</City>
+  </record>
+  <record>
+    <Names>Mufutau</Names>
+    <Tel>003620/1517938</Tel>
+    <City>Soria</City>
+  </record>
+  <record>
+    <Names>Addison</Names>
+    <Tel>0036707540077</Tel>
+    <City>Toltén</City>
+  </record>
+  <record>
+    <Names>Melvin</Names>
+    <Tel>003620/5077640</Tel>
+    <City>Wichita</City>
+  </record>
+  <record>
+    <Names>Addison</Names>
+    <Tel>0036704379743</Tel>
+    <City>Valleyview</City>
+  </record>
+  <record>
+    <Names>Drew</Names>
+    <Tel>0036704632442</Tel>
+    <City>Zedelgem</City>
+  </record>
+  <record>
+    <Names>Edan</Names>
+    <Tel>003620/6813909</Tel>
+    <City>Timaukel</City>
+  </record>
+  <record>
+    <Names>Cain</Names>
+    <Tel>003620/1754530</Tel>
+    <City>Pamel</City>
+  </record>
+  <record>
+    <Names>Isaac</Names>
+    <Tel>0036701163397</Tel>
+    <City>Kırıkhan</City>
+  </record>
+  <record>
+    <Names>Hammett</Names>
+    <Tel>0036704145486</Tel>
+    <City>Stonewall</City>
+  </record>
+  <record>
+    <Names>Devin</Names>
+    <Tel>003630/3621549</Tel>
+    <City>Latisana</City>
+  </record>
+  <record>
+    <Names>Prescott</Names>
+    <Tel>003630/9099129</Tel>
     <City>Tuscaloosa</City>
-    <ID>63</ID>
-  </custumer>
-  <custumer>
-    <Names>Hedwig W. Curry</Names>
-    <Tel>0070-451-1391</Tel>
-    <City>Abbeville</City>
-    <ID>64</ID>
-  </custumer>
-  <custumer>
-    <Names>Reuben K. Sawyer</Names>
-    <Tel>0020-010-7515</Tel>
-    <City>Roio del Sangro</City>
-    <ID>65</ID>
-  </custumer>
-  <custumer>
-    <Names>Otto C. Payne</Names>
-    <Tel>0020-209-1350</Tel>
-    <City>Westrem</City>
-    <ID>66</ID>
-  </custumer>
-  <custumer>
-    <Names>Ifeoma H. Charles</Names>
-    <Tel>0030-375-7343</Tel>
-    <City>Langen</City>
-    <ID>67</ID>
-  </custumer>
-  <custumer>
-    <Names>Bell Y. Mullen</Names>
-    <Tel>0070-534-8092</Tel>
-    <City>Wortel</City>
-    <ID>68</ID>
-  </custumer>
-  <custumer>
-    <Names>Pearl D. Hahn</Names>
-    <Tel>0070-488-1272</Tel>
-    <City>Ambala</City>
-    <ID>69</ID>
-  </custumer>
-  <custumer>
-    <Names>Ursula V. Mays</Names>
-    <Tel>0030-936-4636</Tel>
-    <City>Çaldıran</City>
-    <ID>70</ID>
-  </custumer>
-  <custumer>
-    <Names>Gareth J. Bowen</Names>
-    <Tel>0070-819-5036</Tel>
-    <City>Westlock</City>
-    <ID>71</ID>
-  </custumer>
-  <custumer>
-    <Names>Illana J. Reynolds</Names>
-    <Tel>0070-527-6599</Tel>
-    <City>Malahide</City>
-    <ID>72</ID>
-  </custumer>
-  <custumer>
-    <Names>Wanda U. Heath</Names>
-    <Tel>0020-333-8627</Tel>
-    <City>Ilbono</City>
-    <ID>73</ID>
-  </custumer>
-  <custumer>
-    <Names>Leandra O. Mcdonald</Names>
-    <Tel>0070-954-2724</Tel>
-    <City>Caledon</City>
-    <ID>74</ID>
-  </custumer>
-  <custumer>
-    <Names>Ocean O. Hopkins</Names>
-    <Tel>0030-228-6606</Tel>
-    <City>Huntley</City>
-    <ID>75</ID>
-  </custumer>
-  <custumer>
-    <Names>Whoopi K. Gilbert</Names>
-    <Tel>0020-304-3018</Tel>
-    <City>Monguelfo-Tesido/Welsberg-Taisten</City>
-    <ID>76</ID>
-  </custumer>
-  <custumer>
-    <Names>Hiroko X. Mccormick</Names>
-    <Tel>0030-347-2707</Tel>
-    <City>Kolhapur</City>
-    <ID>77</ID>
-  </custumer>
-  <custumer>
-    <Names>Leonard X. Morgan</Names>
-    <Tel>0070-288-1602</Tel>
-    <City>Shikarpur</City>
-    <ID>78</ID>
-  </custumer>
-  <custumer>
-    <Names>Roth Q. Rivera</Names>
-    <Tel>0020-446-8967</Tel>
-    <City>Aiseau-Presles</City>
-    <ID>79</ID>
-  </custumer>
-  <custumer>
-    <Names>Patrick R. Harrell</Names>
-    <Tel>0070-250-4365</Tel>
+  </record>
+  <record>
+    <Names>Walker</Names>
+    <Tel>003630/5384721</Tel>
+    <City>Ferrere</City>
+  </record>
+  <record>
+    <Names>Jonas</Names>
+    <Tel>003620/7542329</Tel>
+    <City>Laramie</City>
+  </record>
+  <record>
+    <Names>Keaton</Names>
+    <Tel>003630/5583246</Tel>
+    <City>Albagiara</City>
+  </record>
+  <record>
+    <Names>Dennis</Names>
+    <Tel>0036704240893</Tel>
+    <City>Vetlanda</City>
+  </record>
+  <record>
+    <Names>Fitzgerald</Names>
+    <Tel>0036706859064</Tel>
+    <City>Jefferson City</City>
+  </record>
+  <record>
+    <Names>Laith</Names>
+    <Tel>0036704083516</Tel>
+    <City>Igboho</City>
+  </record>
+  <record>
+    <Names>Ulysses</Names>
+    <Tel>003620/5935965</Tel>
+    <City>Irricana</City>
+  </record>
+  <record>
+    <Names>Rahim</Names>
+    <Tel>0036705937162</Tel>
+    <City>Cambrai</City>
+  </record>
+  <record>
+    <Names>Abel</Names>
+    <Tel>0036706018335</Tel>
+    <City>Barrie</City>
+  </record>
+  <record>
+    <Names>Ciaran</Names>
+    <Tel>0036702689961</Tel>
+    <City>North Battleford</City>
+  </record>
+  <record>
+    <Names>Ashton</Names>
+    <Tel>003620/4048359</Tel>
+    <City>San Demetrio Corone</City>
+  </record>
+  <record>
+    <Names>Oleg</Names>
+    <Tel>003620/1953873</Tel>
+    <City>Roksem</City>
+  </record>
+  <record>
+    <Names>Ira</Names>
+    <Tel>003630/0194228</Tel>
+    <City>Negrete</City>
+  </record>
+  <record>
+    <Names>Christopher</Names>
+    <Tel>003630/8690756</Tel>
+    <City>Traiskirchen</City>
+  </record>
+  <record>
+    <Names>Ahmed</Names>
+    <Tel>0036700965500</Tel>
+    <City>Belgaum</City>
+  </record>
+  <record>
+    <Names>Phillip</Names>
+    <Tel>003620/5719205</Tel>
+    <City>Armidale</City>
+  </record>
+  <record>
+    <Names>Xavier</Names>
+    <Tel>003620/6689077</Tel>
+    <City>San Rafael</City>
+  </record>
+  <record>
+    <Names>Roth</Names>
+    <Tel>003620/0966548</Tel>
+    <City>Mondolfo</City>
+  </record>
+  <record>
+    <Names>Boris</Names>
+    <Tel>0036701188783</Tel>
+    <City>Frignano</City>
+  </record>
+  <record>
+    <Names>Roth</Names>
+    <Tel>003620/8234448</Tel>
+    <City>Lens</City>
+  </record>
+  <record>
+    <Names>Sebastian</Names>
+    <Tel>003620/5142023</Tel>
+    <City>Lens</City>
+  </record>
+  <record>
+    <Names>Trevor</Names>
+    <Tel>0036701602054</Tel>
+    <City>Fumal</City>
+  </record>
+  <record>
+    <Names>Nathaniel</Names>
+    <Tel>003630/7569489</Tel>
+    <City>Cittanova</City>
+  </record>
+  <record>
+    <Names>Daquan</Names>
+    <Tel>0036707508410</Tel>
+    <City>Baltimore</City>
+  </record>
+  <record>
+    <Names>Zephania</Names>
+    <Tel>003620/3543717</Tel>
+    <City>Neder-Over-Heembeek</City>
+  </record>
+  <record>
+    <Names>Cyrus</Names>
+    <Tel>003630/8356241</Tel>
+    <City>Oamaru</City>
+  </record>
+  <record>
+    <Names>Clark</Names>
+    <Tel>003620/9424570</Tel>
+    <City>Sautin</City>
+  </record>
+  <record>
+    <Names>Walter</Names>
+    <Tel>003630/4956132</Tel>
+    <City>Brahmapur</City>
+  </record>
+  <record>
+    <Names>Mark</Names>
+    <Tel>003630/7837971</Tel>
+    <City>Burgos</City>
+  </record>
+  <record>
+    <Names>Hammett</Names>
+    <Tel>003620/7843790</Tel>
+    <City>Täby</City>
+  </record>
+  <record>
+    <Names>Giacomo</Names>
+    <Tel>003630/2548928</Tel>
+    <City>Velsk</City>
+  </record>
+  <record>
+    <Names>Ian</Names>
+    <Tel>0036701090733</Tel>
     <City>Verdun</City>
-    <ID>80</ID>
-  </custumer>
-  <custumer>
-    <Names>Russell P. White</Names>
-    <Tel>0070-831-8740</Tel>
-    <City>Norman</City>
-    <ID>81</ID>
-  </custumer>
-  <custumer>
-    <Names>Keiko E. Briggs</Names>
-    <Tel>0070-769-2830</Tel>
-    <City>Mezen</City>
-    <ID>82</ID>
-  </custumer>
-  <custumer>
-    <Names>Cullen Z. Perry</Names>
-    <Tel>0070-031-9699</Tel>
-    <City>Anzi</City>
-    <ID>83</ID>
-  </custumer>
-  <custumer>
-    <Names>Lavinia U. Cunningham</Names>
-    <Tel>0030-336-0857</Tel>
-    <City>Lillois-WitterzŽe</City>
-    <ID>84</ID>
-  </custumer>
-  <custumer>
-    <Names>Bruno L. Levine</Names>
-    <Tel>0030-078-4436</Tel>
-    <City>Canmore</City>
-    <ID>85</ID>
-  </custumer>
-  <custumer>
-    <Names>Ciaran W. Williamson</Names>
-    <Tel>0030-996-4268</Tel>
-    <City>Marzabotto</City>
-    <ID>86</ID>
-  </custumer>
-  <custumer>
-    <Names>Yuli P. Perkins</Names>
-    <Tel>0020-636-1063</Tel>
-    <City>Campofelice di Fitalia</City>
-    <ID>87</ID>
-  </custumer>
-  <custumer>
-    <Names>Tucker W. Davis</Names>
-    <Tel>0020-036-1847</Tel>
-    <City>Seydişehir</City>
-    <ID>88</ID>
-  </custumer>
-  <custumer>
-    <Names>Elizabeth B. Mccarty</Names>
-    <Tel>0020-505-0418</Tel>
-    <City>Grayvoron</City>
-    <ID>89</ID>
-  </custumer>
-  <custumer>
-    <Names>Howard H. Hansen</Names>
-    <Tel>0030-748-1462</Tel>
-    <City>Mostazal</City>
-    <ID>90</ID>
-  </custumer>
-  <custumer>
-    <Names>Ulysses X. Lyons</Names>
-    <Tel>0030-023-7905</Tel>
-    <City>Ambala</City>
-    <ID>91</ID>
-  </custumer>
-  <custumer>
-    <Names>Ignacia E. Watson</Names>
-    <Tel>0030-106-4683</Tel>
-    <City>Markkleeberg</City>
-    <ID>92</ID>
-  </custumer>
-  <custumer>
-    <Names>Valentine Y. Brown</Names>
-    <Tel>0030-900-5831</Tel>
-    <City>Fort Saskatchewan</City>
-    <ID>93</ID>
-  </custumer>
-  <custumer>
-    <Names>Mikayla V. Harper</Names>
-    <Tel>0030-513-6186</Tel>
-    <City>Heerhugowaard</City>
-    <ID>94</ID>
-  </custumer>
-  <custumer>
-    <Names>Slade H. Pollard</Names>
-    <Tel>0020-924-6838</Tel>
-    <City>Río Claro</City>
-    <ID>95</ID>
-  </custumer>
-  <custumer>
-    <Names>Armando I. Mosley</Names>
-    <Tel>0020-008-1682</Tel>
-    <City>Stalhille</City>
-    <ID>96</ID>
-  </custumer>
-  <custumer>
-    <Names>Austin Q. Herring</Names>
-    <Tel>0070-795-5748</Tel>
-    <City>Wrocław</City>
-    <ID>97</ID>
-  </custumer>
-  <custumer>
-    <Names>Myra R. Witt</Names>
-    <Tel>0070-655-3201</Tel>
-    <City>Diadema</City>
-    <ID>98</ID>
-  </custumer>
-  <custumer>
-    <Names>Colton P. Parsons</Names>
-    <Tel>0030-052-7313</Tel>
-    <City>Tando Muhammad Khan</City>
-    <ID>99</ID>
-  </custumer>
-  <custumer>
-    <Names>Brent P. Molina</Names>
-    <Tel>0070-816-0246</Tel>
-    <City>Zelzate</City>
-    <ID>100</ID>
-  </custumer>
-</customers><?xml version="1.0" encoding="UTF-8" ?>
-<customers>
-  <custumer>
-    <Names>Denton V. Cain</Names>
-    <Tel>0020-117-5746</Tel>
-    <City>Terme</City>
-    <ID>1</ID>
-  </custumer>
-  <custumer>
-    <Names>Clare N. House</Names>
-    <Tel>0020-406-9229</Tel>
-    <City>Agen</City>
-    <ID>2</ID>
-  </custumer>
-  <custumer>
-    <Names>Sade B. Pugh</Names>
-    <Tel>0070-483-0456</Tel>
-    <City>Las Cabras</City>
-    <ID>3</ID>
-  </custumer>
-  <custumer>
-    <Names>Elvis B. Lyons</Names>
-    <Tel>0070-934-9354</Tel>
-    <City>North Saanich</City>
-    <ID>4</ID>
-  </custumer>
-  <custumer>
-    <Names>Eugenia X. Morrison</Names>
-    <Tel>0070-533-3663</Tel>
-    <City>Oostkerk</City>
-    <ID>5</ID>
-  </custumer>
-  <custumer>
-    <Names>Oleg U. Sellers</Names>
-    <Tel>0030-770-6308</Tel>
-    <City>Bad Dürkheim</City>
-    <ID>6</ID>
-  </custumer>
-  <custumer>
-    <Names>Debra O. Randall</Names>
-    <Tel>0020-921-6664</Tel>
-    <City>Bilaspur</City>
-    <ID>7</ID>
-  </custumer>
-  <custumer>
-    <Names>Evelyn S. Pickett</Names>
-    <Tel>0030-589-7865</Tel>
-    <City>Milazzo</City>
-    <ID>8</ID>
-  </custumer>
-  <custumer>
-    <Names>Madeline F. Davidson</Names>
-    <Tel>0030-093-9739</Tel>
-    <City>Aklavik</City>
-    <ID>9</ID>
-  </custumer>
-  <custumer>
-    <Names>Amelia M. Rivers</Names>
-    <Tel>0070-836-5483</Tel>
-    <City>Sant'Egidio del Monte Albino</City>
-    <ID>10</ID>
-  </custumer>
-  <custumer>
-    <Names>Althea B. Wiggins</Names>
-    <Tel>0070-794-4416</Tel>
-    <City>Guardia Sanframondi</City>
-    <ID>11</ID>
-  </custumer>
-  <custumer>
-    <Names>Constance E. Walton</Names>
-    <Tel>0030-217-5170</Tel>
-    <City>Quedlinburg</City>
-    <ID>12</ID>
-  </custumer>
-  <custumer>
-    <Names>Walker I. Bailey</Names>
-    <Tel>0070-325-3067</Tel>
-    <City>Knighton</City>
-    <ID>13</ID>
-  </custumer>
-  <custumer>
-    <Names>Macey D. Melendez</Names>
-    <Tel>0070-968-7513</Tel>
-    <City>Cork</City>
-    <ID>14</ID>
-  </custumer>
-  <custumer>
-    <Names>Zachary O. Conway</Names>
-    <Tel>0070-562-0159</Tel>
-    <City>Siverek</City>
-    <ID>15</ID>
-  </custumer>
-  <custumer>
-    <Names>Colton W. Melton</Names>
-    <Tel>0070-415-6227</Tel>
-    <City>Ancarano</City>
-    <ID>16</ID>
-  </custumer>
-  <custumer>
-    <Names>Casey E. Shields</Names>
-    <Tel>0030-402-1555</Tel>
-    <City>Sindelfingen</City>
-    <ID>17</ID>
-  </custumer>
-  <custumer>
-    <Names>Harding K. Green</Names>
-    <Tel>0030-238-8730</Tel>
-    <City>Aserrí</City>
-    <ID>18</ID>
-  </custumer>
-  <custumer>
-    <Names>Daryl G. Burris</Names>
-    <Tel>0030-205-4763</Tel>
-    <City>Boca del Río</City>
-    <ID>19</ID>
-  </custumer>
-  <custumer>
-    <Names>Graiden L. Lawrence</Names>
-    <Tel>0070-312-9845</Tel>
-    <City>Madison</City>
-    <ID>20</ID>
-  </custumer>
-  <custumer>
-    <Names>Juliet L. Pratt</Names>
-    <Tel>0030-913-4239</Tel>
-    <City>Beuzet</City>
-    <ID>21</ID>
-  </custumer>
-  <custumer>
-    <Names>Ruby V. Ramirez</Names>
-    <Tel>0070-424-0761</Tel>
-    <City>Clearwater Municipal District</City>
-    <ID>22</ID>
-  </custumer>
-  <custumer>
-    <Names>Damon X. Allen</Names>
-    <Tel>0030-477-2705</Tel>
-    <City>Cobourg</City>
-    <ID>23</ID>
-  </custumer>
-  <custumer>
-    <Names>Elizabeth Y. Lucas</Names>
-    <Tel>0070-668-3527</Tel>
-    <City>Pietrasanta</City>
-    <ID>24</ID>
-  </custumer>
-  <custumer>
-    <Names>Kellie F. Schwartz</Names>
-    <Tel>0030-521-0086</Tel>
-    <City>Castel Guelfo di Bologna</City>
-    <ID>25</ID>
-  </custumer>
-  <custumer>
-    <Names>Salvador I. Shaffer</Names>
-    <Tel>0030-918-8639</Tel>
-    <City>Zaragoza</City>
-    <ID>26</ID>
-  </custumer>
-  <custumer>
-    <Names>Dominique I. Small</Names>
-    <Tel>0070-662-4104</Tel>
-    <City>Marabá</City>
-    <ID>27</ID>
-  </custumer>
-  <custumer>
-    <Names>Patrick H. Robbins</Names>
-    <Tel>0030-620-0648</Tel>
-    <City>Germersheim</City>
-    <ID>28</ID>
-  </custumer>
-  <custumer>
-    <Names>Denton N. Garza</Names>
-    <Tel>0020-789-1414</Tel>
-    <City>Van</City>
-    <ID>29</ID>
-  </custumer>
-  <custumer>
-    <Names>Deacon Q. Foley</Names>
-    <Tel>0020-078-4839</Tel>
-    <City>Bodmin</City>
-    <ID>30</ID>
-  </custumer>
-  <custumer>
-    <Names>Ayanna S. Colon</Names>
-    <Tel>0020-533-0472</Tel>
-    <City>Gliwice</City>
-    <ID>31</ID>
-  </custumer>
-  <custumer>
-    <Names>Ian B. Romero</Names>
-    <Tel>0070-754-5269</Tel>
-    <City>Ribnitz-Damgarten</City>
-    <ID>32</ID>
-  </custumer>
-  <custumer>
-    <Names>Katelyn N. Hensley</Names>
-    <Tel>0070-644-4867</Tel>
-    <City>San Esteban</City>
-    <ID>33</ID>
-  </custumer>
-  <custumer>
-    <Names>Olivia F. Hays</Names>
-    <Tel>0070-828-4983</Tel>
-    <City>Overmere</City>
-    <ID>34</ID>
-  </custumer>
-  <custumer>
-    <Names>Madison G. Graves</Names>
-    <Tel>0030-315-8076</Tel>
-    <City>Cimolais</City>
-    <ID>35</ID>
-  </custumer>
-  <custumer>
-    <Names>Vincent W. Maxwell</Names>
-    <Tel>0070-292-6516</Tel>
-    <City>Luik</City>
-    <ID>36</ID>
-  </custumer>
-  <custumer>
-    <Names>Abel V. Evans</Names>
-    <Tel>0030-157-1594</Tel>
-    <City>Champlain</City>
-    <ID>37</ID>
-  </custumer>
-  <custumer>
-    <Names>Dacey M. Thompson</Names>
-    <Tel>0070-244-5868</Tel>
-    <City>Koningshooikt</City>
-    <ID>38</ID>
-  </custumer>
-  <custumer>
-    <Names>Basia Y. Dalton</Names>
-    <Tel>0070-719-9870</Tel>
-    <City>Grangemouth</City>
-    <ID>39</ID>
-  </custumer>
-  <custumer>
-    <Names>Tarik P. Cherry</Names>
-    <Tel>0030-423-9154</Tel>
-    <City>Oostkerke</City>
-    <ID>40</ID>
-  </custumer>
-  <custumer>
-    <Names>Ralph A. Cole</Names>
-    <Tel>0070-316-3507</Tel>
-    <City>Miraflores</City>
-    <ID>41</ID>
-  </custumer>
-  <custumer>
-    <Names>Finn F. Abbott</Names>
-    <Tel>0070-702-6990</Tel>
-    <City>Ust-Katav</City>
-    <ID>42</ID>
-  </custumer>
-  <custumer>
-    <Names>Branden V. Hunt</Names>
-    <Tel>0020-632-3954</Tel>
-    <City>Sant'Arsenio</City>
-    <ID>43</ID>
-  </custumer>
-  <custumer>
-    <Names>Garrett R. Franco</Names>
-    <Tel>0030-617-7966</Tel>
-    <City>Ollagüe</City>
-    <ID>44</ID>
-  </custumer>
-  <custumer>
-    <Names>Chase U. Alvarado</Names>
-    <Tel>0020-393-0834</Tel>
-    <City>Nizhny</City>
-    <ID>45</ID>
-  </custumer>
-  <custumer>
-    <Names>Tashya W. Moore</Names>
-    <Tel>0030-169-1577</Tel>
-    <City>Fort Smith</City>
-    <ID>46</ID>
-  </custumer>
-  <custumer>
-    <Names>Zahir E. Goodman</Names>
-    <Tel>0030-793-0624</Tel>
-    <City>Rouen</City>
-    <ID>47</ID>
-  </custumer>
-  <custumer>
-    <Names>Hope N. Lang</Names>
-    <Tel>0070-835-9902</Tel>
-    <City>Vitry-sur-Seine</City>
-    <ID>48</ID>
-  </custumer>
-  <custumer>
-    <Names>Lionel D. Rocha</Names>
-    <Tel>0020-635-5472</Tel>
-    <City>Columbia</City>
-    <ID>49</ID>
-  </custumer>
-  <custumer>
-    <Names>Stone R. Oneal</Names>
-    <Tel>0020-092-3162</Tel>
-    <City>Grand-Manil</City>
-    <ID>50</ID>
-  </custumer>
-  <custumer>
-    <Names>Jolene R. Rodriguez</Names>
-    <Tel>0070-151-3824</Tel>
-    <City>Viggianello</City>
-    <ID>51</ID>
-  </custumer>
-  <custumer>
-    <Names>Kimberley I. Pugh</Names>
-    <Tel>0020-027-1624</Tel>
-    <City>Anchorage</City>
-    <ID>52</ID>
-  </custumer>
-  <custumer>
-    <Names>Dorian O. Harmon</Names>
-    <Tel>0020-715-4395</Tel>
-    <City>Pöttsching</City>
-    <ID>53</ID>
-  </custumer>
-  <custumer>
-    <Names>Brooke Z. Watson</Names>
-    <Tel>0020-351-9606</Tel>
-    <City>Cirencester</City>
-    <ID>54</ID>
-  </custumer>
-  <custumer>
-    <Names>Ayanna T. West</Names>
-    <Tel>0070-060-6348</Tel>
-    <City>Stene</City>
-    <ID>55</ID>
-  </custumer>
-  <custumer>
-    <Names>Diana Z. Blevins</Names>
-    <Tel>0030-300-1529</Tel>
-    <City>Idaho Falls</City>
-    <ID>56</ID>
-  </custumer>
-  <custumer>
-    <Names>Shannon G. Serrano</Names>
-    <Tel>0030-198-4084</Tel>
-    <City>Villach</City>
-    <ID>57</ID>
-  </custumer>
-  <custumer>
-    <Names>Camilla W. Hayden</Names>
-    <Tel>0030-235-2154</Tel>
-    <City>Fossato Serralta</City>
-    <ID>58</ID>
-  </custumer>
-  <custumer>
-    <Names>Hannah E. Keller</Names>
-    <Tel>0020-177-2955</Tel>
-    <City>Oxford County</City>
-    <ID>59</ID>
-  </custumer>
-  <custumer>
-    <Names>Clinton H. Gaines</Names>
-    <Tel>0020-372-8381</Tel>
-    <City>Bognor Regis</City>
-    <ID>60</ID>
-  </custumer>
-  <custumer>
-    <Names>Darrel B. Ramirez</Names>
-    <Tel>0030-498-7717</Tel>
-    <City>Goulburn</City>
-    <ID>61</ID>
-  </custumer>
-  <custumer>
-    <Names>Mia F. Mccarthy</Names>
-    <Tel>0030-290-6833</Tel>
-    <City>Mornimont</City>
-    <ID>62</ID>
-  </custumer>
-  <custumer>
-    <Names>Jemima N. Nguyen</Names>
-    <Tel>0020-040-1051</Tel>
-    <City>Piringen</City>
-    <ID>63</ID>
-  </custumer>
-  <custumer>
-    <Names>Vera E. Lawrence</Names>
-    <Tel>0070-341-9067</Tel>
-    <City>Spokane</City>
-    <ID>64</ID>
-  </custumer>
-  <custumer>
-    <Names>Ivor K. Bradford</Names>
-    <Tel>0020-086-9753</Tel>
-    <City>Woodlands County</City>
-    <ID>65</ID>
-  </custumer>
-  <custumer>
-    <Names>Hollee J. Morse</Names>
-    <Tel>0030-676-5339</Tel>
-    <City>Perugia</City>
-    <ID>66</ID>
-  </custumer>
-  <custumer>
-    <Names>Tasha U. Knowles</Names>
-    <Tel>0030-945-2747</Tel>
-    <City>Silius</City>
-    <ID>67</ID>
-  </custumer>
-  <custumer>
-    <Names>Chantale N. Larson</Names>
-    <Tel>0030-577-2223</Tel>
-    <City>Bridge of Allan</City>
-    <ID>68</ID>
-  </custumer>
-  <custumer>
-    <Names>Ebony M. Snider</Names>
-    <Tel>0030-218-7514</Tel>
+  </record>
+  <record>
+    <Names>Castor</Names>
+    <Tel>0036703075045</Tel>
+    <City>Blieskastel</City>
+  </record>
+  <record>
+    <Names>Honorato</Names>
+    <Tel>003620/2805340</Tel>
+    <City>Viddalba</City>
+  </record>
+  <record>
+    <Names>James</Names>
+    <Tel>0036707180342</Tel>
+    <City>Solre-sur-Sambre</City>
+  </record>
+  <record>
+    <Names>Tanner</Names>
+    <Tel>0036706101604</Tel>
+    <City>Boo</City>
+  </record>
+  <record>
+    <Names>Lucian</Names>
+    <Tel>003630/6158146</Tel>
+    <City>Sandviken</City>
+  </record>
+  <record>
+    <Names>Martin</Names>
+    <Tel>003620/1219122</Tel>
+    <City>Rizes</City>
+  </record>
+  <record>
+    <Names>Byron</Names>
+    <Tel>003620/9217722</Tel>
+    <City>Alcorcón</City>
+  </record>
+  <record>
+    <Names>Nathan</Names>
+    <Tel>003620/2875782</Tel>
+    <City>Liedekerke</City>
+  </record>
+  <record>
+    <Names>Wang</Names>
+    <Tel>003620/1800888</Tel>
+    <City>Haarlem</City>
+  </record>
+  <record>
+    <Names>Hakeem</Names>
+    <Tel>0036701410495</Tel>
+    <City>La Higuera</City>
+  </record>
+  <record>
+    <Names>Dominic</Names>
+    <Tel>0036705680598</Tel>
+    <City>Minucciano</City>
+  </record>
+  <record>
+    <Names>Ryan</Names>
+    <Tel>003630/5892210</Tel>
+    <City>Mobile</City>
+  </record>
+  <record>
+    <Names>Andrew</Names>
+    <Tel>003620/0856530</Tel>
+    <City>Oelegem</City>
+  </record>
+  <record>
+    <Names>Jakeem</Names>
+    <Tel>003630/7310861</Tel>
+    <City>Stratford</City>
+  </record>
+  <record>
+    <Names>Craig</Names>
+    <Tel>0036703003573</Tel>
+    <City>Huaral</City>
+  </record>
+  <record>
+    <Names>Fulton</Names>
+    <Tel>003630/0000213</Tel>
+    <City>Svobodny</City>
+  </record>
+  <record>
+    <Names>Cody</Names>
+    <Tel>003620/3322828</Tel>
+    <City>Birkenhead</City>
+  </record>
+  <record>
+    <Names>Davis</Names>
+    <Tel>003620/2486224</Tel>
+    <City>Introd</City>
+  </record>
+  <record>
+    <Names>Chase</Names>
+    <Tel>0036700519512</Tel>
+    <City>Aiseau-Presles</City>
+  </record>
+  <record>
+    <Names>Hector</Names>
+    <Tel>003620/2674078</Tel>
+    <City>Alhué</City>
+  </record>
+  <record>
+    <Names>Amos</Names>
+    <Tel>003620/2882536</Tel>
+    <City>Gorzów Wielkopolski</City>
+  </record>
+  <record>
+    <Names>Solomon</Names>
+    <Tel>0036707033631</Tel>
+    <City>Contulmo</City>
+  </record>
+  <record>
+    <Names>Cairo</Names>
+    <Tel>003630/1149440</Tel>
+    <City>Ponsacco</City>
+  </record>
+  <record>
+    <Names>Garth</Names>
+    <Tel>0036700251744</Tel>
+    <City>Metz</City>
+  </record>
+  <record>
+    <Names>Hyatt</Names>
+    <Tel>003620/5624491</Tel>
+    <City>Sellano</City>
+  </record>
+  <record>
+    <Names>Brock</Names>
+    <Tel>0036706798851</Tel>
+    <City>Lelystad</City>
+  </record>
+  <record>
+    <Names>Michael</Names>
+    <Tel>0036700870686</Tel>
+    <City>Watford</City>
+  </record>
+  <record>
+    <Names>Scott</Names>
+    <Tel>003630/3089839</Tel>
+    <City>Modakeke</City>
+  </record>
+  <record>
+    <Names>Hector</Names>
+    <Tel>0036709825998</Tel>
+    <City>Novodvinsk</City>
+  </record>
+  <record>
+    <Names>Quentin</Names>
+    <Tel>0036701811047</Tel>
+    <City>Portobuffolè</City>
+  </record>
+  <record>
+    <Names>Zachary</Names>
+    <Tel>0036702220814</Tel>
+    <City>Pordenone</City>
+  </record>
+  <record>
+    <Names>Blaze</Names>
+    <Tel>0036707905183</Tel>
+    <City>Eckernförde</City>
+  </record>
+  <record>
+    <Names>Tate</Names>
+    <Tel>0036709267558</Tel>
+    <City>Whyalla</City>
+  </record>
+  <record>
+    <Names>Simon</Names>
+    <Tel>003630/3270011</Tel>
+    <City>Levin</City>
+  </record>
+  <record>
+    <Names>Tobias</Names>
+    <Tel>003620/6415327</Tel>
+    <City>Lachine</City>
+  </record>
+  <record>
+    <Names>Ahmed</Names>
+    <Tel>003630/5920130</Tel>
+    <City>Lanark County</City>
+  </record>
+  <record>
+    <Names>Branden</Names>
+    <Tel>003630/0295897</Tel>
+    <City>Missoula</City>
+  </record>
+  <record>
+    <Names>Xenos</Names>
+    <Tel>003620/8002658</Tel>
+    <City>Tolve</City>
+  </record>
+  <record>
+    <Names>Driscoll</Names>
+    <Tel>003630/4682733</Tel>
+    <City>Marke</City>
+  </record>
+  <record>
+    <Names>Dalton</Names>
+    <Tel>003620/1719416</Tel>
+    <City>Gjoa Haven</City>
+  </record>
+  <record>
+    <Names>Keaton</Names>
+    <Tel>0036700082070</Tel>
+    <City>Bhopal</City>
+  </record>
+  <record>
+    <Names>Griffin</Names>
+    <Tel>003620/0021038</Tel>
     <City>Notre-Dame-du-Nord</City>
-    <ID>69</ID>
-  </custumer>
-  <custumer>
-    <Names>Scarlet L. Cortez</Names>
-    <Tel>0070-501-5666</Tel>
-    <City>Brandon</City>
-    <ID>70</ID>
-  </custumer>
-  <custumer>
-    <Names>Wang B. Phelps</Names>
-    <Tel>0070-254-9914</Tel>
-    <City>Steenhuffel</City>
-    <ID>71</ID>
-  </custumer>
-  <custumer>
-    <Names>Perry A. Strong</Names>
-    <Tel>0070-346-5935</Tel>
-    <City>Guadalajara</City>
-    <ID>72</ID>
-  </custumer>
-  <custumer>
-    <Names>Hilel D. Farley</Names>
-    <Tel>0070-523-3949</Tel>
-    <City>Knoxville</City>
-    <ID>73</ID>
-  </custumer>
-  <custumer>
-    <Names>Arsenio E. Lindsay</Names>
-    <Tel>0070-038-6572</Tel>
-    <City>Smetlede</City>
-    <ID>74</ID>
-  </custumer>
-  <custumer>
-    <Names>Hammett R. Swanson</Names>
-    <Tel>0020-701-7253</Tel>
-    <City>Calgary</City>
-    <ID>75</ID>
-  </custumer>
-  <custumer>
-    <Names>Gemma Z. Warren</Names>
-    <Tel>0070-321-0189</Tel>
-    <City>Gdynia</City>
-    <ID>76</ID>
-  </custumer>
-  <custumer>
-    <Names>Michelle W. Ramirez</Names>
-    <Tel>0020-527-4772</Tel>
-    <City>Vichuquén</City>
-    <ID>77</ID>
-  </custumer>
-  <custumer>
-    <Names>Benedict Z. Rivera</Names>
-    <Tel>0020-166-2605</Tel>
-    <City>Chihuahua</City>
-    <ID>78</ID>
-  </custumer>
-  <custumer>
-    <Names>Jescie Y. Ingram</Names>
-    <Tel>0030-468-6905</Tel>
-    <City>Milford Haven</City>
-    <ID>79</ID>
-  </custumer>
-  <custumer>
-    <Names>Debra V. Pugh</Names>
-    <Tel>0070-253-1733</Tel>
-    <City>Duluth</City>
-    <ID>80</ID>
-  </custumer>
-  <custumer>
-    <Names>Ingrid M. Mccormick</Names>
-    <Tel>0070-256-0766</Tel>
-    <City>Aubervilliers</City>
-    <ID>81</ID>
-  </custumer>
-  <custumer>
-    <Names>Rooney F. Ramirez</Names>
-    <Tel>0030-434-8700</Tel>
-    <City>Salamanca</City>
-    <ID>82</ID>
-  </custumer>
-  <custumer>
-    <Names>Amos J. Phillips</Names>
-    <Tel>0070-409-3736</Tel>
-    <City>Inverurie</City>
-    <ID>83</ID>
-  </custumer>
-  <custumer>
-    <Names>Mufutau Y. Hutchinson</Names>
-    <Tel>0030-746-5441</Tel>
-    <City>Shawville</City>
-    <ID>84</ID>
-  </custumer>
-  <custumer>
-    <Names>Howard O. Lang</Names>
-    <Tel>0070-118-3090</Tel>
-    <City>Tay</City>
-    <ID>85</ID>
-  </custumer>
-  <custumer>
-    <Names>Eve R. Wilson</Names>
-    <Tel>0070-386-7266</Tel>
-    <City>Salt Lake City</City>
-    <ID>86</ID>
-  </custumer>
-  <custumer>
-    <Names>Unity M. Mcfadden</Names>
-    <Tel>0020-097-2947</Tel>
-    <City>Oakham</City>
-    <ID>87</ID>
-  </custumer>
-  <custumer>
-    <Names>Xanthus G. Schroeder</Names>
-    <Tel>0030-461-8528</Tel>
-    <City>Algeciras</City>
-    <ID>88</ID>
-  </custumer>
-  <custumer>
-    <Names>Noel S. Watson</Names>
-    <Tel>0020-602-9963</Tel>
-    <City>Santa Cruz de Lorica</City>
-    <ID>89</ID>
-  </custumer>
-  <custumer>
-    <Names>Kareem L. Wise</Names>
-    <Tel>0070-223-2687</Tel>
-    <City>Talara</City>
-    <ID>90</ID>
-  </custumer>
-  <custumer>
-    <Names>Stone G. Duran</Names>
-    <Tel>0030-280-0591</Tel>
-    <City>Reus</City>
-    <ID>91</ID>
-  </custumer>
-  <custumer>
-    <Names>Troy N. Cruz</Names>
-    <Tel>0030-294-6008</Tel>
-    <City>Kotamobagu</City>
-    <ID>92</ID>
-  </custumer>
-  <custumer>
-    <Names>Kyla S. Duran</Names>
-    <Tel>0020-788-7795</Tel>
-    <City>Guirsch</City>
-    <ID>93</ID>
-  </custumer>
-  <custumer>
-    <Names>Deanna U. Clarke</Names>
-    <Tel>0030-818-9674</Tel>
-    <City>Montelíbano</City>
-    <ID>94</ID>
-  </custumer>
-  <custumer>
-    <Names>Marny S. Carpenter</Names>
-    <Tel>0020-384-1857</Tel>
-    <City>Vereya</City>
-    <ID>95</ID>
-  </custumer>
-  <custumer>
-    <Names>Bruno L. Jarvis</Names>
-    <Tel>0030-187-0213</Tel>
-    <City>Fort William</City>
-    <ID>96</ID>
-  </custumer>
-  <custumer>
-    <Names>Colorado D. Atkinson</Names>
-    <Tel>0030-958-1590</Tel>
-    <City>Aguachica</City>
-    <ID>97</ID>
-  </custumer>
-  <custumer>
-    <Names>Odette J. Rojas</Names>
-    <Tel>0030-529-0945</Tel>
-    <City>Mamuju</City>
-    <ID>98</ID>
-  </custumer>
-  <custumer>
-    <Names>Marshall N. Barber</Names>
-    <Tel>0070-417-2465</Tel>
-    <City>Quintero</City>
-    <ID>99</ID>
-  </custumer>
-  <custumer>
-    <Names>Colleen A. Farrell</Names>
-    <Tel>0020-783-4409</Tel>
-    <City>Schiltigheim</City>
-    <ID>100</ID>
-  </custumer>
-</customers>
+  </record>
+  <record>
+    <Names>Kieran</Names>
+    <Tel>003630/8584012</Tel>
+    <City>Częstochowa</City>
+  </record>
+  <record>
+    <Names>Kenyon</Names>
+    <Tel>0036702174438</Tel>
+    <City>Merchtem</City>
+  </record>
+  <record>
+    <Names>Rahim</Names>
+    <Tel>003620/9373515</Tel>
+    <City>Owen Sound</City>
+  </record>
+  <record>
+    <Names>Ulric</Names>
+    <Tel>003620/4384936</Tel>
+    <City>Sant'Angelo a Cupolo</City>
+  </record>
+  <record>
+    <Names>Nathaniel</Names>
+    <Tel>0036709253116</Tel>
+    <City>Wetaskiwin</City>
+  </record>
+  <record>
+    <Names>Brady</Names>
+    <Tel>0036706253995</Tel>
+    <City>Dosquebradas</City>
+  </record>
+  <record>
+    <Names>Norman</Names>
+    <Tel>003620/1285326</Tel>
+    <City>Tocopilla</City>
+  </record>
+  <record>
+    <Names>Benedict</Names>
+    <Tel>003620/3878769</Tel>
+    <City>Naro-Fominsk</City>
+  </record>
+  <record>
+    <Names>Hunter</Names>
+    <Tel>0036705203770</Tel>
+    <City>Montes Claros</City>
+  </record>
+  <record>
+    <Names>Raphael</Names>
+    <Tel>0036707812868</Tel>
+    <City>Vottem</City>
+  </record>
+  <record>
+    <Names>Kamal</Names>
+    <Tel>0036704293173</Tel>
+    <City>Imst</City>
+  </record>
+  <record>
+    <Names>Armando</Names>
+    <Tel>0036704915793</Tel>
+    <City>Yegoryevsk</City>
+  </record>
+  <record>
+    <Names>Keegan</Names>
+    <Tel>003620/9975921</Tel>
+    <City>Victoria</City>
+  </record>
+</records>
