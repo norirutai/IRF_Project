@@ -12,16 +12,22 @@ using System.Xml.Linq;
 
 namespace beadandó
 {
-    
+
     public partial class Form1 : Form
     {
+        public Form1()
+        {
+            getcustumers();
+        }
         XDocument xdok = XDocument.Load("custumers.xml");
         BindingList<Custumer> custumers = new BindingList<Custumer>();
+
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            
-            
-
+            IEnumerable<Custumer> keres =
+                from x in custumers
+                where x.cCity.Contains(textBox1.Text)
+                select x;
         }
         private void getcustumers()
         {
@@ -37,5 +43,4 @@ namespace beadandó
             }
         }
     }
-    
 }
