@@ -17,12 +17,14 @@ namespace beadandó
     {
         public Form1()
         {
+            InitializeComponent();
             getcustumers();
-            dataGridView1.DataSource = custumers;
+            listBox1.DataSource = custumers;
+            listBox1.DisplayMember = "cCity";
         }
-        XDocument xdok = XDocument.Load("custumers.xml");
+        //XDocument xdok = XDocument.Load("custumers.xml");
         BindingList<Custumer> custumers = new BindingList<Custumer>();
-        
+
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
             IEnumerable<Custumer> keres =
@@ -30,7 +32,7 @@ namespace beadandó
                 where x.cCity.Contains(textBox1.Text)
                 select x;
         }
-        private void getcustumers()
+        public void getcustumers()
         {
             var xml = new XmlDocument();
             xml.Load("custumers.xml");
@@ -39,14 +41,38 @@ namespace beadandó
                 for (int i = 1; i < 101; i++)
                 {
                     var custumer = new Custumer();
-                    custumers.Add(custumer);
+
                     custumer.cName = xmlElement.GetAttribute("Names");
                     custumer.cTel = xmlElement.GetAttribute("Tel");
                     custumer.cCity = xmlElement.GetAttribute("City");
                     custumer.cID = i;
+                    custumers.Add(custumer);
                 }
-                
+
             }
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            iras();
+            
+        }
+        private void iras()
+        {
+            
+            for (int i = 0; i < 5; i++)
+            {
+                Random rnd = new Random();
+                int kiv = rnd.Next(1, 101);
+                IEnumerable<Custumer> keres =
+               from x in custumers
+               where x.cID == kiv
+               select x;
+               Console.WriteLine(keres);
+            }
+            
+        }
     }
+    
 }
+
