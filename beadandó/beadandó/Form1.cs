@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -31,6 +32,7 @@ namespace beadandó
                 from x in custumers
                 where x.cCity.Contains(textBox1.Text)
                 select x;
+            listBox1.DataSource = keres.ToList();
         }
         public void getcustumers()
         {
@@ -68,7 +70,17 @@ namespace beadandó
                from x in custumers
                where x.cID == kiv
                select x;
-               Console.WriteLine(keres);
+                SaveFileDialog sfd = new SaveFileDialog();
+                sfd.InitialDirectory = Application.StartupPath;
+                sfd.Filter = "Comma Seperated Values (*.csv)|*.csv";
+                sfd.DefaultExt = "csv";
+                sfd.AddExtension = true;
+                if (sfd.ShowDialog() != DialogResult.OK) return;
+                using (StreamWriter sw = new StreamWriter(sfd.FileName, false, Encoding.UTF8))
+                {
+                    sw.WriteLine(keres);
+                }
+
             }
             
         }
