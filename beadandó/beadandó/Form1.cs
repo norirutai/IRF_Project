@@ -77,9 +77,13 @@ namespace beadandó
                 sfd.AddExtension = true;
                 if (sfd.ShowDialog() != DialogResult.OK) return;
                 using (StreamWriter sw = new StreamWriter(sfd.FileName, false, Encoding.UTF8))
-                {
-                    sw.WriteLine(keres);
-                }
+                    foreach (var k in keres)
+                    {
+                        sw.WriteLine(k.cName);
+                        sw.WriteLine(k.cTel);
+                        sw.WriteLine(k.cCity);
+                    }
+               
 
             }
             
