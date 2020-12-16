@@ -20,36 +20,11 @@ namespace beadandó
         {
             InitializeComponent();
             getcustumers();
-            listBox1.DataSource = custumers;
-            listBox1.DisplayMember = "City";
+            dataGridView1.DataSource = custumers;
         }
-        XDocument xdok = XDocument.Load("custumers.xml");
         BindingList<Custumer> custumers = new BindingList<Custumer>();
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-                var keres =
-                from x in custumers
-                where x.City.Contains(textBox1.Text)
-                select x;
-            listBox1.DataSource = keres.ToList();
-        }
-        
         public void getcustumers()
         {
-            //XmlNodeList name = xml.GetElementsByTagName("Names");
-            //XmlNodeList tel = xml.GetElementsByTagName("Tel");
-            //XmlNodeList city = xml.GetElementsByTagName("City");
-            //for (int j = 1; j < 101; j++)
-            //{
-            //    var custumer = new Custumer();
-            //    custumer.Name = (name[j].InnerText);
-            //    custumer.Tel = (tel[j].InnerText);
-            //    custumer.City = (city[j].InnerText);
-            //    custumer.ID = i;
-            //    i++;
-            //    custumers.Add(custumer);
-            //}
             StreamReader sr = new StreamReader("custumers.xml");
             var xmlString = sr.ReadToEnd();
 
@@ -77,41 +52,42 @@ namespace beadandó
                 
             }
         }
-
+        
         private void button1_Click(object sender, EventArgs e)
         {
-            iras();
-            
+            iras(); 
         }
-        private void iras()
+        public void iras()
         {
-            
-            for (int i = 0; i < 5; i++)
+            List<Custumer> random = new List<Custumer>();
+            decimal szam = numericUpDown1.Value;
+            for (int i = 0; i < szam; i++)
             {
                 Random rnd = new Random();
                 int kiv = rnd.Next(1, 101);
-                var keres =
-               from x in custumers
-               where x.ID == kiv
-               select x;
-                SaveFileDialog sfd = new SaveFileDialog();
-                sfd.InitialDirectory = Application.StartupPath;
-                sfd.Filter = "Comma Seperated Values (*.csv)|*.csv";
-                sfd.DefaultExt = "csv";
-                sfd.AddExtension = true;
-                if (sfd.ShowDialog() != DialogResult.OK) return;
-                using (StreamWriter sw = new StreamWriter(sfd.FileName, false, Encoding.UTF8))
-                    foreach (var k in keres)
-                    {
-                        sw.Write(k.Name);
-                        sw.Write(";");
-                        sw.Write(k.Tel);
-                        sw.Write(";");
-                        sw.Write(k.City);
-                    }
+                random =
+               (from x in custumers
+                where x.ID == kiv 
+                select x).ToList();
             }
-            
+            BindingList<Custumer> ToCall = new BindingList<Custumer>(random);
+            SaveFileDialog sfd = new SaveFileDialog();
+            sfd.InitialDirectory = Application.StartupPath;
+            sfd.Filter = "Comma Seperated Values (*.csv)|*.csv";
+            sfd.DefaultExt = "csv";
+            sfd.AddExtension = true;
+            if (sfd.ShowDialog() != DialogResult.OK) return;
+            using (StreamWriter sw = new StreamWriter(sfd.FileName, false, Encoding.UTF8))
+                foreach (var c in ToCall)
+                {
+                    sw.Write(c.Name);
+                    sw.Write(";");
+                    sw.Write(c.Tel);
+                    sw.Write(";");
+                    sw.Write(c.City);
+                }
         }
+
     }
     
 }
