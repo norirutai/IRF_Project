@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
-<records>
+﻿
+<custumers>
   <record>
     <Names>Hu</Names>
     <Tel>003620/6086393</Tel>
@@ -500,4 +500,4 @@
     <Tel>003620/9975921</Tel>
     <City>Victoria</City>
   </record>
-</records>
+</custumers>

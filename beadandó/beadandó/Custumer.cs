@@ -8,9 +8,9 @@ namespace beadandó
 {
     public class Custumer
     {
-        public string cName { get; set; }
-        public string cTel { get; set; }
-        public string cCity { get; set; }
-        public int cID { get; set; }
+        public string Name { get; set; }
+        public string Tel { get; set; }
+        public string City { get; set; }
+        public int ID { get; set; }
     }
 }

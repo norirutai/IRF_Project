@@ -21,36 +21,60 @@ namespace beadandó
             InitializeComponent();
             getcustumers();
             listBox1.DataSource = custumers;
-            listBox1.DisplayMember = "cCity";
+            listBox1.DisplayMember = "City";
         }
-        //XDocument xdok = XDocument.Load("custumers.xml");
+        XDocument xdok = XDocument.Load("custumers.xml");
         BindingList<Custumer> custumers = new BindingList<Custumer>();
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            IEnumerable<Custumer> keres =
+                var keres =
                 from x in custumers
-                where x.cCity.Contains(textBox1.Text)
+                where x.City.Contains(textBox1.Text)
                 select x;
             listBox1.DataSource = keres.ToList();
         }
+        
         public void getcustumers()
         {
+            //XmlNodeList name = xml.GetElementsByTagName("Names");
+            //XmlNodeList tel = xml.GetElementsByTagName("Tel");
+            //XmlNodeList city = xml.GetElementsByTagName("City");
+            //for (int j = 1; j < 101; j++)
+            //{
+            //    var custumer = new Custumer();
+            //    custumer.Name = (name[j].InnerText);
+            //    custumer.Tel = (tel[j].InnerText);
+            //    custumer.City = (city[j].InnerText);
+            //    custumer.ID = i;
+            //    i++;
+            //    custumers.Add(custumer);
+            //}
+            StreamReader sr = new StreamReader("custumers.xml");
+            var xmlString = sr.ReadToEnd();
+
             var xml = new XmlDocument();
-            xml.Load("custumers.xml");
+            xml.LoadXml(xmlString);
+            int i = 1;
             foreach (XmlElement xmlElement in xml.DocumentElement)
             {
-                for (int i = 1; i < 101; i++)
-                {
-                    var custumer = new Custumer();
-
-                    custumer.cName = xmlElement.GetAttribute("Names");
-                    custumer.cTel = xmlElement.GetAttribute("Tel");
-                    custumer.cCity = xmlElement.GetAttribute("City");
-                    custumer.cID = i;
-                    custumers.Add(custumer);
-                }
-
+                var custumer = new Custumer();
+                custumers.Add(custumer);
+                var nameElement = (XmlElement)xmlElement.ChildNodes[0];
+                if (nameElement == null)
+                    continue;
+                custumer.Name = nameElement.InnerText;
+                var telElement = (XmlElement)xmlElement.ChildNodes[1];
+                if (telElement == null)
+                    continue;
+                custumer.Tel = telElement.InnerText;
+                var cityElemet = (XmlElement)xmlElement.ChildNodes[2];
+                if (cityElemet == null)
+                    continue;
+                custumer.City = cityElemet.InnerText;
+                custumer.ID = i;
+                i++;
+                
             }
         }
 
@@ -66,9 +90,9 @@ namespace beadandó
             {
                 Random rnd = new Random();
                 int kiv = rnd.Next(1, 101);
-                IEnumerable<Custumer> keres =
+                var keres =
                from x in custumers
-               where x.cID == kiv
+               where x.ID == kiv
                select x;
                 SaveFileDialog sfd = new SaveFileDialog();
                 sfd.InitialDirectory = Application.StartupPath;
@@ -79,12 +103,12 @@ namespace beadandó
                 using (StreamWriter sw = new StreamWriter(sfd.FileName, false, Encoding.UTF8))
                     foreach (var k in keres)
                     {
-                        sw.WriteLine(k.cName);
-                        sw.WriteLine(k.cTel);
-                        sw.WriteLine(k.cCity);
+                        sw.Write(k.Name);
+                        sw.Write(";");
+                        sw.Write(k.Tel);
+                        sw.Write(";");
+                        sw.Write(k.City);
                     }
-               
-
             }
             
         }
